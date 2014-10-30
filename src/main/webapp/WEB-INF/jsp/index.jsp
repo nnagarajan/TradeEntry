@@ -2,7 +2,7 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <html>
 <body>
-    Welcome to Wellington Trade System
+    Welcome to N-tEchNO Trade System
     ${message}
 </body>
 </html>
