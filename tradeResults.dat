@@ -1,0 +1,10 @@
+{"id":0,"symbol":"IBM","tradeAction":"BUY","quantity":100,"price":50.0,"marketValue":-5000.0,"cumProfitLoss":0.0,"profitLoss":0.0,"transactionDate":null}
+{"id":0,"symbol":"IBM","tradeAction":"BUY","quantity":200,"price":51.0,"marketValue":2600.0,"profitLoss":0.0,"cumProfitLoss":0.0,"transactionDate":null}
+{"id":0,"symbol":"IBM","tradeAction":"SELL","quantity":150,"price":52.0,"marketValue":2600.0,"profitLoss":0.0,"cumProfitLoss":0.0,"transactionDate":null}
+{"id":0,"symbol":"IBM","tradeAction":"BUY","quantity":100,"price":53.0,"marketValue":2600.0,"profitLoss":0.0,"cumProfitLoss":0.0,"transactionDate":null}
+{"id":0,"symbol":"IBM","tradeAction":"SELL","quantity":50,"price":54.0,"marketValue":2600.0,"profitLoss":0.0,"cumProfitLoss":0.0,"transactionDate":null}
+{"id":0,"symbol":"IBM","tradeAction":"SELL","quantity":200,"price":55.0,"marketValue":2600.0,"profitLoss":0.0,"cumProfitLoss":0.0,"transactionDate":null}
+{"id":0,"symbol":"APPLE","tradeAction":"SELL","quantity":100,"price":53.0,"marketValue":5300.0,"profitLoss":0.0,"cumProfitLoss":0.0,"transactionDate":null}
+{"id":0,"symbol":"APPLE","tradeAction":"BUY","quantity":10,"price":52.0,"marketValue":-520.0,"profitLoss":0.0,"cumProfitLoss":0.0,"transactionDate":null}
+{"id":0,"symbol":"APPLE","tradeAction":"BUY","quantity":0,"price":52.2,"marketValue":-0.0,"profitLoss":0.0,"cumProfitLoss":0.0,"transactionDate":null}
+{"id":0,"symbol":"APPLE","tradeAction":"BUY","quantity":1,"price":1.1,"marketValue":-1.1,"profitLoss":0.0,"cumProfitLoss":0.0,"transactionDate":null}

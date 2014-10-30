@@ -1,0 +1,19 @@
+td {
+    padding-top: 25px;
+}
+
+.togglePLCls {
+    display: none
+}
+
+.toggleCumPLCls {
+    display: none
+}
+
+.marTop10 {
+    margin-top: 10px;
+}
+
+.hide {
+    display: none
+}
