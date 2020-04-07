@@ -8,7 +8,7 @@ import com.ntechno.trade.util.JsonDateDeserializer;
 import com.ntechno.trade.util.JsonDateSerializer;
 
 import java.util.Date;
-
+ 
 /**
  * Created by nanagarajan on 8/16/2014.
  */
